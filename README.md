@@ -16,7 +16,7 @@ This project is an AI-driven chatbot trained on theoretical Computer Science sub
 | Technology  | Purpose  |
 |-------------|----------|
 | ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg) Python | Core programming language |
-| ![LangChain](https://raw.githubusercontent.com/langchain/langchain/0f455156d4c83c37d7d4b0a8917da8a02db71567/docs/_static/langchain-thin.svg) LangChain  | Question-answer framework |
+| ![LangChain](https://api.nuget.org/v3-flatcontainer/langchain/0.15.0/icon) LangChain  | Question-answer framework |
 | ![Gemini AI](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Google_G_icon.svg/512px-Google_G_icon.svg.png) Gemini AI  | AI-driven responses |
 | ![ChromaDB](https://chromadb.org/static/chromadb-mark-blue-500px.png) ChromaDB | Vector store for embedding storage |
 | ![Streamlit](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg) Streamlit | User interface for the application |
