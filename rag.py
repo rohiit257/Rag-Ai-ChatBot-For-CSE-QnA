@@ -12,8 +12,6 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 warnings.filterwarnings("ignore", category=FutureWarning)
 
-GEMINI_API_KEY = "AIzaSyAKb_0fENIgCMhaM_y4KJiUs6uN5_NktLk"
-
 def signal_handler(sig,frame):
     print("\nThanks for using gemini :)")
     sys.exit(0)
