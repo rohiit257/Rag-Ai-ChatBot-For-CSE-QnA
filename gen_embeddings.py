@@ -3,7 +3,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_community.vectorstores import Chroma
 
-loaders = [PyPDFLoader('./blockchain.pdf')]
+loaders = [PyPDFLoader('')]
 
 docs = []
 
